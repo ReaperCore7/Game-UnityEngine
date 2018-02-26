@@ -1,0 +1,4 @@
+sceneSetups:
+- path: F:/Unity/Game-UnityEngine/Assets/sample.unity
+  isLoaded: 1
+  isActive: 1
